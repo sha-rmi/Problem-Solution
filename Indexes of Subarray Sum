@@ -20,4 +20,8 @@ class Solution {
         ans.add(-1);
         return ans;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f32ebfb36ff4275f07d77d189f7cda1e2040389b
